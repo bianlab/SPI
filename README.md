@@ -4,6 +4,7 @@ A set of different reconstruction algorithms for single-pixel imaging (SPI).
 If you have any questions, please feel free to contact Liheng Bian at bian@bit.edu.cn
 
 If this code offers help for your research, please cite our publication:
+
 Liheng Bian, Jinli Suo, Qionghai Dai and Feng Chen, 'Experimental comparison of single-pixel imaging algorithms,' Journal of the Optical Society of America A, 2017, vol. 35, no. 1, pp. 78-87.
 
 --------------------------------------------------------------------------------------------------------------------------
