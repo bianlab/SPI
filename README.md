@@ -1,5 +1,10 @@
 # SPI
-A set of different reconstruction algorithms for single-pixel imaging (SPI).
+A set of different reconstruction algorithms for single-pixel imaging (SPI). 
+
+If you have any questions, please feel free to contact Liheng Bian at bian@bit.edu.cn
+
+If this code offers help for your research, please cite our publication:
+Liheng Bian, Jinli Suo, Qionghai Dai and Feng Chen, 'Experimental comparison of single-pixel imaging algorithms,' Journal of the Optical Society of America A, 2017, vol. 35, no. 1, pp. 78-87.
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -55,12 +60,3 @@ Xuemei Hu, Jinli Suo, Tao Yue, Liheng Bian and Qionghai Dai, 'Patch-primitive dr
  Disclaimer
 ------------------------------------------------------------------------------------------------------------------------------------
 Any unauthorized use of these routines for industrial or profit-oriented activities is expressively prohibited.
-
-------------------------------------------------------------------------------------------------------------------------------------
- Feedback
-------------------------------------------------------------------------------------------------------------------------------------
-If this code offers help for your research, please cite our paper:
-Liheng Bian, Jinli Suo, Qionghai Dai, and Feng Chen. 'Experimental comparison of single-pixel imaging algorithms'.
-
-If you have any comment, suggestion, or question, please feel free to contact Liheng Bian at bian@bit.edu.cn
-------------------------------------------------------------------------------------------------------------------------------------
